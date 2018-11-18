@@ -1,0 +1,4 @@
+#Sun Nov 18 14:56:07 GMT 2018
+base.0=D\:\\Documents\\Projects\\Angular_Projects\\Fitness_App\\fitnessApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
